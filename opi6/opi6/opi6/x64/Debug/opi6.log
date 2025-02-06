@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programm files\оппи\opi6\opi6\opi6\main.cpp(44,11): warning C4101: a: неиспользованная локальная переменная
+  opi6.vcxproj -> D:\Programm files\оппи\opi6\opi6\x64\Debug\opi6.exe
